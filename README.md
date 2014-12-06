@@ -1,6 +1,12 @@
 ConjugatePriors.jl
 ==================
 
+# NOTICE
+
+**This package is deprecated and replaced by Distributions.jl.**
+
+# Introduction
+
 Closed-form solutions for Bayesian updating under conjugate priors
 
 # Usage Examples
